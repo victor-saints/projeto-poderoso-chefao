@@ -4,7 +4,7 @@
 
 <img src="./Projeto O poderoso chefão.gif" alt= "gif mostruário do projeto">
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas:
 
 - HTML
 - CSS 
@@ -14,3 +14,5 @@
 ```
 git clone https://github.com/victor-saints/projeto-poderoso-chefao.git
 ```
+## O que aprendi:
+Esse projeto foi um gatilho para o começo da minha mudança de carreira, como podem ver no meu LinkedIn, eu venho da área administrativa e estava muito desanimado com ela, foi depois de finalizar esse evento/projeto que me encontrei no mundo do desenvolvimento web, então respondendo de maneira mais resumida... Aprendi que nunca é tarde para mudar!
